@@ -38,6 +38,7 @@ body {
 }
 
 /* Make the columns the same height as each other */
+@media (max-width: 900px) {
 #container {
     overflow: auto;
 }
@@ -273,4 +274,5 @@ nav ul a {
     height: 496px;
     border: 5px dotted #8bb4d0;
     overflow: scroll;
+}
 }
