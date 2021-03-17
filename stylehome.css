@@ -1,10 +1,10 @@
 /* Layout */
-@media (max-width: 900px) {
+
 body {
     min-width: 630px;
     background-color: #000e2a;
 }
-
+@media (max-width: 900px) {
 .ki-kd{
 	text-align: center;
 	background-color: #000e2a;

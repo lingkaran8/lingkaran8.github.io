@@ -1,5 +1,4 @@
 /* Layout */
-@media (max-width: 900px) {
 body {
     min-width: 630px;
     background-color: #d9c2fa;
@@ -50,6 +49,7 @@ body {
 
 
 /* Aesthetics */
+@media (max-width: 900px) {
 body {
     margin: 0;
     padding: 0;
