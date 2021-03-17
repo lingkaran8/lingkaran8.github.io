@@ -4,7 +4,6 @@ body {
     min-width: 630px;
     background-color: #000e2a;
 }
-@media (max-width: 900px) {
 .ki-kd{
 	text-align: center;
 	background-color: #000e2a;
@@ -33,5 +32,4 @@ body {
 	float: left;
 	margin-left: 150px;
 	margin-top: 50px;
-}
 }
