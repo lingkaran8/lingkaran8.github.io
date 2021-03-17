@@ -1,4 +1,5 @@
 /* Layout */
+@media (max-width: 900px) {
 body {
     min-width: 630px;
     background-color: #d9c2fa;
@@ -38,7 +39,6 @@ body {
 }
 
 /* Make the columns the same height as each other */
-@media (max-width: 900px) {
 #container {
     overflow: auto;
 }
